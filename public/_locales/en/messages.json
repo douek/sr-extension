@@ -1,0 +1,25 @@
+{
+  "extName": {
+    "message": "sr-extension",
+    "description": ""
+  },
+
+  "menuItemSelectionLogger": {
+    "message": "Log '%s' to the browser console",
+    "description": "Title of context menu item that logs the selected text when clicked."
+  },
+
+  "menuAddCard": {
+    "message": "Add new Card",
+    "description": "create a new card back"
+  },
+
+  "menuAddCardSelectionFront": {
+    "message": "new card -front",
+    "description": "add the text selected to a new card front"
+  },
+  "menuAddCardSelectionBack": {
+    "message": "new card - back",
+    "description": "add the text selected to a new card back"
+  }
+}
