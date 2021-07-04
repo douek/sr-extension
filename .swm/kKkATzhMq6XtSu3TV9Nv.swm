@@ -1,0 +1,38 @@
+{
+    "id": "kKkATzhMq6XtSu3TV9Nv",
+    "name": "Doc On the web - test",
+    "content": [
+        {
+            "type": "text",
+            "text": "lalala I am Lord"
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "     \"48\": \"icons/48.png\",",
+                "     \"128\": \"icons/128.png\"",
+                "   },",
+                "*  \"background\": {",
+                "*    \"scripts\": [",
+                "*      \"js/background.js\"",
+                "*    ],",
+                "*    \"persistent\": false",
+                "*  },",
+                "   \"browser_action\": {",
+                "     \"default_popup\": \"popup.html\",",
+                "     \"default_title\": \"__MSG_extName__\","
+            ],
+            "firstLineNumber": 14,
+            "path": "src/manifest.json",
+            "comments": []
+        }
+    ],
+    "symbols": {},
+    "file_version": "2.0.1",
+    "meta": {
+        "app_version": "0.4.9-0",
+        "file_blobs": {
+            "src/manifest.json": "c3d8de6c54c81bf7bc69cac8268743e1e164241b"
+        }
+    }
+}
