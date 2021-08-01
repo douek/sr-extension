@@ -1,0 +1,31 @@
+{
+    "id": "mEW6zsJ9foufVJ4Tl3hd",
+    "name": "Testing links",
+    "content": [
+        {
+            "type": "text",
+            "text": "Add some links:\n\n[[sym-link:(0413ebab-8eb3-4be0-9e64-b29e8d88bd10)Test]] [[sym-link:(7f84b03d-fa82-4d36-9ce0-664cef38b1ba)Another Doc with a long long long name ❤️]]"
+        }
+    ],
+    "symbols": {
+        "0413ebab-8eb3-4be0-9e64-b29e8d88bd10": {
+            "type": "link",
+            "swimmId": "Ck52llPoliwBnM0zougM",
+            "repoId": "Z2l0aHViJTNBJTNBc3ItZXh0ZW5zaW9uJTNBJTNBZG91ZWs=",
+            "text": "Test",
+            "name": "Test"
+        },
+        "7f84b03d-fa82-4d36-9ce0-664cef38b1ba": {
+            "type": "link",
+            "swimmId": "9yzmm5UcTxNYLjrG8XAF",
+            "repoId": "Z2l0aHViJTNBJTNBc3ItZXh0ZW5zaW9uJTNBJTNBZG91ZWs=",
+            "text": "Another Doc with a long long long name ❤️",
+            "name": "Another Doc with a long long long name ❤️"
+        }
+    },
+    "file_version": "2.0.3",
+    "meta": {
+        "app_version": "0.5.3-0",
+        "file_blobs": {}
+    }
+}
