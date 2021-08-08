@@ -1,0 +1,23 @@
+{
+    "id": "7GrcwQ83YqquvAhq0VMt",
+    "name": "link",
+    "content": [
+        {
+            "type": "text",
+            "text": "[[sym-link:(ea8ca214-b724-45bf-999a-86b191f954b4)A doc with links]]"
+        }
+    ],
+    "symbols": {
+        "ea8ca214-b724-45bf-999a-86b191f954b4": {
+            "type": "link",
+            "swimmId": "xsOXHEwXDtoIRVbpt8oK",
+            "repoId": "c3ItZXh0ZW5zaW9uZG91ZWs=",
+            "text": "A doc with links"
+        }
+    },
+    "file_version": "2.0.3",
+    "meta": {
+        "app_version": "0.5.4-0",
+        "file_blobs": {}
+    }
+}
