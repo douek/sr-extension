@@ -1,0 +1,50 @@
+{
+    "id": "xsOXHEwXDtoIRVbpt8oK",
+    "name": "A doc with links",
+    "content": [
+        {
+            "type": "text",
+            "text": "w [[sym-link:(33adab54-9425-43b5-9254-2572ba9b561f)Init swimm]]"
+        },
+        {
+            "type": "snippet",
+            "lines": [
+                "     \"lint\": \"vue-cli-service lint\"",
+                "   },",
+                "   \"dependencies\": {",
+                "*    \"core-js\": \"^3.6.4\",",
+                "*    \"qs\": \"^6.9.3\",",
+                "*    \"vue\": \"^2.6.11\",",
+                "*    \"vuex\": \"^3.2.0\"",
+                "*  },",
+                "*  \"devDependencies\": {",
+                "*    \"@vue/cli-plugin-babel\": \"~4.3.0\",",
+                "*    \"@vue/cli-plugin-eslint\": \"~4.3.0\",",
+                "*    \"@vue/cli-service\": \"~4.3.0\",",
+                "*    \"babel-eslint\": \"^10.1.0\",",
+                "*    \"eslint\": \"^6.7.2\",",
+                "     \"eslint-plugin-vue\": \"^6.2.2\",",
+                "     \"vue-cli-plugin-browser-extension\": \"~0.24.0\",",
+                "     \"vue-template-compiler\": \"^2.6.11\""
+            ],
+            "firstLineNumber": 8,
+            "path": "package.json",
+            "comments": []
+        }
+    ],
+    "symbols": {
+        "33adab54-9425-43b5-9254-2572ba9b561f": {
+            "type": "link",
+            "swimmId": "jzfqNkG8ymQXjXeEDJR7",
+            "repoId": "c3ItZXh0ZW5zaW9uZG91ZWs=",
+            "text": "Init swimm"
+        }
+    },
+    "file_version": "2.0.3",
+    "meta": {
+        "app_version": "0.5.4-0",
+        "file_blobs": {
+            "package.json": "1e86bf13ba3912da31f9e0d341d766d5754a4bbe"
+        }
+    }
+}
