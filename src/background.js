@@ -43,6 +43,7 @@ browser.contextMenus.create({
   contexts: ["selection"],
 });
 
+// comment for autosync  
 browser.contextMenus.create({
   id: "add_card_selection_back",
   title: browser.i18n.getMessage("menuAddCardSelectionBack"),
