@@ -7,6 +7,10 @@ app_version: 0.6.1-0
 
 <!-- Steps - Do not remove this comment --> 
 1. [links new final!!](links-new-final.Ueuf8nogaPxo5JK60DLB.sw.md) 
+2. [dvd33](dvd33.2pEqk.sw.md) 
+3. [https://github.com/douek/sr-extension/tree/master/.swm](https://github.com/douek/sr-extension/tree/master/.swm) 
+4. [New Doc](http://localhost:5000/#/repos/U0sVB7lC9at5XPOW1TBW/docs/h2hypcQMACn2kfjyzxI3) 
+5. [Playlist like Doc](playlist-like-doc.nhHzH.sw.md) 
 
 
 <br/>
