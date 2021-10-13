@@ -10,8 +10,10 @@ app_version: 0.6.1-0
 2. [link](https://www.youtube.com/watch?v=WvZ7ORMfefw) 
 3. [Another](https://console.firebase.google.com/project/swimm-dev/firestore/data/~2Frepositories~2F0zrQlBsurS8X6dDttgw5~2Fplaylists~2Fk5FENpTJZ40cwEYa8Y9i) 
 4. [Rename Doc Please Work!!!!](rename-doc-please-work.SpOum.sw.md) 
-5. [dvd33](dvd33.2pEqk.sw.md) 
-6. [Test SWMD Autosync hi](test-swmd-autosync-hi.Jy_Wg.sw.md) 
+5. [third link](https://app.clickup.com/t/1mkrd3w) 
+6. [Playlist like Doc](playlist-like-doc.nhHzH.sw.md) 
+7. [dvd33](dvd33.2pEqk.sw.md) 
+8. [Test SWMD Autosync hi](test-swmd-autosync-hi.Jy_Wg.sw.md) 
 
 
 <br/>
