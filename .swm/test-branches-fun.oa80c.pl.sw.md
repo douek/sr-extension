@@ -18,6 +18,8 @@ additional info
 3. [Doc to master](http://localhost:5000/#/repos/U0sVB7lC9at5XPOW1TBW/docs/FJ1CA0atRFTqmNXqgNxD)
 4. [https://www.youtube.com/watch?v=b_0_nF9yX9c&t=146s](https://www.youtube.com/watch?v=b_0_nF9yX9c&t=146s)
 5. [https://www.youtube.com/watch?v=wQfgzKtajvw](https://www.youtube.com/watch?v=wQfgzKtajvw)
+6. [https://www.youtube.com/watch?v=vxCaBbKf9Ig](https://www.youtube.com/watch?v=vxCaBbKf9Ig)
+7. [https://youtu.be/vxCaBbKf9Ig](https://youtu.be/vxCaBbKf9Ig)
 
 
 <br/>
