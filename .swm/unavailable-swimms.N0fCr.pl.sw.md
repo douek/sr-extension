@@ -11,6 +11,7 @@ app_version: 0.6.4-0
 3. [Doc to master](http://localhost:5000/repos/U0sVB7lC9at5XPOW1TBW/docs/FJ1CA0atRFTqmNXqgNxD)
 4. [Einor Test](einor-test.8gMUg.pl.sw.md)
 5. [test playlist without swmd flag](http://localhost:5000/repos/U0sVB7lC9at5XPOW1TBW/playlists/PQ6nY)
+6. [exercise in plan](exercise-in-plan.tyOZM.sw.md)
 
 
 <br/>
