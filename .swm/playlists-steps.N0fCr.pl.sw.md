@@ -12,6 +12,7 @@ app_version: 0.6.4-0
 4. [Einor Test](einor-test.8gMUg.pl.sw.md)
 5. [test playlist without swmd flag](http://localhost:5000/repos/U0sVB7lC9at5XPOW1TBW/playlists/PQ6nY)
 6. [exercise in plan](exercise-in-plan.tyOZM.sw.md)
+7. [playlist in playlist in playlist](playlist-in-playlist-in-playlist.Go2m5.pl.sw.md)
 
 
 <br/>
