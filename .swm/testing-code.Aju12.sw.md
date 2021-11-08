@@ -7,13 +7,13 @@ app_version: 0.6.6-0
 
 menu code block
 
-tetstetr
+`tetstetr`
 
-reterter r
+`reterter r`
 
-e tre tret ert ert e
+`e tre tret ert ert e`
 
-ser
+`ser`
 
 <br/>
 
@@ -37,6 +37,21 @@ tetstetr
      reterter r
 
      e tre tret ert ert e
+
+ser
+```
+
+<br/>
+
+```
+tetstetr
+
+
+reterter r
+
+
+e tre tret ert ert e
+
 
 ser
 ```
