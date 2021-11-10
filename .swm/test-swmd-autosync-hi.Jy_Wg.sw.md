@@ -9,7 +9,7 @@ file_blobs:
   src/popup/main.js: 503fd8913a1166007f847d3e2faf5e85d629fba7
 ---
 
-Newer version saving some
+Newer version saving some11
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/manifest.json
 ```json
@@ -88,7 +88,7 @@ Save darf
 
 <br/>
 
-yjyj test test
+yjyj
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/popup/main.js
 ```javascript
