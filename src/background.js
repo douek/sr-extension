@@ -1,5 +1,5 @@
 // Copyright (c) 2012 The Chromium Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
+// Use of this source code is governed by a BSD-style license that can be1
 // found in the LICENSE file.
 import qs from 'qs'
 
