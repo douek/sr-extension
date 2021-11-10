@@ -9,7 +9,7 @@ file_blobs:
   src/popup/main.js: 503fd8913a1166007f847d3e2faf5e85d629fba7
 ---
 
-Newer version saving some44
+Newer version saving some
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/manifest.json
 ```json
