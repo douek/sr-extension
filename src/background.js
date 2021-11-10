@@ -7,7 +7,6 @@ const ROOT_SR_URL = 'localhost:8080';
 // The onClicked callback function.
 function onClickHandler(info) {
   if (info.menuItemId == 'add_card_all') {
-    // add comment to trigger autosync
     let query = {
       type: 'new',
       surl: info.pageUrl
