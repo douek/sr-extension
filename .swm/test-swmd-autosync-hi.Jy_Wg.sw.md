@@ -5,11 +5,11 @@ file_version: 1.0.2
 app_version: 0.6.6-0
 file_blobs:
   src/manifest.json: c3d8de6c54c81bf7bc69cac8268743e1e164241b
-  src/background.js: 814830319dd2225df4cd4a000be27990cc7506e6
+  src/background.js: 17ed6c4f1dae7810941a9d10a7481a37e154adff
   src/popup/main.js: 503fd8913a1166007f847d3e2faf5e85d629fba7
 ---
 
-Newer version saving some bla bla
+Newer version saving some
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/manifest.json
 ```json
@@ -46,14 +46,13 @@ Save darf
 ⬜ 7      // The onClicked callback function.
 🟩 8      function onClickHandler(info) {
 🟩 9        if (info.menuItemId == 'add_card_all') {
-🟩 10         // add comment to trigger autosync
-🟩 11         let query = {
-🟩 12           type: 'new',
-🟩 13           surl: info.pageUrl
-🟩 14         }
-⬜ 15         let urlQueary = `${ROOT_SR_URL}/new/${qs.stringify(query)}`;
-⬜ 16         window.open(urlQueary,'_blank');
-⬜ 17       } else if (info.menuItemId == 'add_card_selection_front') {
+🟩 10         let query = {
+🟩 11           type: 'new',
+🟩 12           surl: info.pageUrl
+🟩 13         }
+⬜ 14         let urlQueary = `${ROOT_SR_URL}/new/${qs.stringify(query)}`;
+⬜ 15         window.open(urlQueary,'_blank');
+⬜ 16       } else if (info.menuItemId == 'add_card_selection_front') {
 ```
 
 <br/>
@@ -61,30 +60,30 @@ Save darf
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/background.js
 ```javascript
-⬜ 35     
-⬜ 36     chrome.contextMenus.onClicked.addListener(onClickHandler);
-⬜ 37     
-🟩 38     // Set up context menu tree at install time.
-🟩 39     chrome.runtime.onInstalled.addListener(function() {
-🟩 40     
-🟩 41     browser.contextMenus.create({
-🟩 42       id: "add_card_selection_front",
-🟩 43       title: browser.i18n.getMessage("menuAddCardSelectionFront"),
-🟩 44       contexts: ["selection"],
-🟩 45     });
-🟩 46     
-🟩 47     browser.contextMenus.create({
-🟩 48       id: "add_card_selection_back",
-🟩 49       title: browser.i18n.getMessage("menuAddCardSelectionBack"),
-🟩 50       contexts: ["selection"],
-🟩 51     });
-🟩 52     
-🟩 53     browser.contextMenus.create({
-🟩 54       id: "add_card_all",
-🟩 55       title: browser.i18n.getMessage("menuAddCard"),
-⬜ 56       contexts: ["all"],
-⬜ 57     });
-⬜ 58     
+⬜ 34     
+⬜ 35     chrome.contextMenus.onClicked.addListener(onClickHandler);
+⬜ 36     
+🟩 37     // Set up context menu tree at install time.
+🟩 38     chrome.runtime.onInstalled.addListener(function() {
+🟩 39     
+🟩 40     browser.contextMenus.create({
+🟩 41       id: "add_card_selection_front",
+🟩 42       title: browser.i18n.getMessage("menuAddCardSelectionFront"),
+🟩 43       contexts: ["selection"],
+🟩 44     });
+🟩 45     
+🟩 46     browser.contextMenus.create({
+🟩 47       id: "add_card_selection_back",
+🟩 48       title: browser.i18n.getMessage("menuAddCardSelectionBack"),
+🟩 49       contexts: ["selection"],
+🟩 50     });
+🟩 51     
+🟩 52     browser.contextMenus.create({
+🟩 53       id: "add_card_all",
+🟩 54       title: browser.i18n.getMessage("menuAddCard"),
+⬜ 55       contexts: ["all"],
+⬜ 56     });
+⬜ 57     
 ```
 
 <br/>
