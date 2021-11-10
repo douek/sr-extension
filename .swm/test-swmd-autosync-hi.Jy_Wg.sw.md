@@ -5,11 +5,11 @@ file_version: 1.0.2
 app_version: 0.6.6-0
 file_blobs:
   src/manifest.json: c3d8de6c54c81bf7bc69cac8268743e1e164241b
-  src/background.js: 3e4f860daf696317c01f6abb7405158bde9acb46
+  src/background.js: 814830319dd2225df4cd4a000be27990cc7506e6
   src/popup/main.js: 503fd8913a1166007f847d3e2faf5e85d629fba7
 ---
 
-Newer version saving some
+Newer version saving some bla bla
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/manifest.json
 ```json
