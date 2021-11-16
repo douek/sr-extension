@@ -1,5 +1,5 @@
 ---
-id: kwawq
+id: kw-awq
 name: Test Unit ID with a dash
 file_version: 1.0.2
 app_version: 0.6.6-0
