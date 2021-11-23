@@ -14,7 +14,8 @@ efrf
 ewf we fe 
 
 fewf 
-wdwdwdwdw 
+wdwdwdedewd
+wdw 
 wdqwd
 ```
 
@@ -24,7 +25,8 @@ wdew
 
 ```
 select *
-from table
+from
+ table
 where a=1
 ```
 
