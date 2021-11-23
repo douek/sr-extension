@@ -26,6 +26,8 @@ wdqwd
 ```
 select *
 from
+deded
+ded
  table
 where a=1
 ```
