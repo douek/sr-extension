@@ -1,6 +1,6 @@
 ---
 id: 8pj3q
-name: Test new doc commit to branvh
+name: Test new doc commit to branch
 file_version: 1.0.2
 app_version: 0.6.8-1
 ---
