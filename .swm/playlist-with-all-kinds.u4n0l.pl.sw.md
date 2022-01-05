@@ -6,13 +6,14 @@ app_version: 0.7.1-1
 ---
 
 <!-- Steps - Do not remove this comment -->
-1. [Test Unit ID with a dash](test-unit-id-with-a-dash.kw-awq.sw.md)
-2. [Daniel - testing 2](daniel-testing-2.UGfwz.pl.sw.md)
-3. [exercise in plan](exercise-in-plan.tyOZM.sw.md)
-4. [bla bla link cross exercise](http://localhost:5001/repos/U0sVB7lC9at5XPOW1TBW/playlists/Zifra)
-5. [New Doc push to branch test](http://localhost:5001/repos/U0sVB7lC9at5XPOW1TBW/docs/5gprK)
-6. [Why join swimm?](https://www.youtube.com/watch?v=bUyPS4JDm4I)
-7. [the readme](/README.md)
+1. [test commit to branch](test-commit-to-branch.10obx.sw.md)
+2. [Test SWMD Autosync hi](test-swmd-autosync-hi.Jy_Wg.sw.md)
+3. [Daniel - testing 2](daniel-testing-2.UGfwz.pl.sw.md)
+4. [exercise in plan](exercise-in-plan.tyOZM.sw.md)
+5. [bla bla link cross exercise](http://localhost:5001/repos/U0sVB7lC9at5XPOW1TBW/playlists/Zifra)
+6. [New Doc push to branch test](http://localhost:5001/repos/U0sVB7lC9at5XPOW1TBW/docs/5gprK)
+7. [Why join swimm?](https://www.youtube.com/watch?v=bUyPS4JDm4I)
+8. [the readme](/README.md)
 
 
 <br/>
