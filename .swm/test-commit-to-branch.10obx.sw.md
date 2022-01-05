@@ -9,7 +9,7 @@ file_blobs:
   .gitignore: 64f58af3d5dcc03636cdaad8de29fd68e22609c4
 ---
 
-is as long? `📄 babel.config.js` `📄 src/components/Menu.vue` `📄 src/popup/main.js`
+is as long? `📄 babel.config.js` `📄 src/components/Menu.vue` `📄 src/popup/main.js`r
 
 <br/>
 
