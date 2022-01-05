@@ -6,13 +6,14 @@ app_version: 0.7.1-1
 file_blobs:
   babel.config.js: e9558405fdcc02f12d757acb308e02937a7444f1
   public/index.html: 41235286563508e0feb4c451a34b598ef822ec21
+  .gitignore: 64f58af3d5dcc03636cdaad8de29fd68e22609c4
 ---
 
-is as long? `📄 babel.config.js`
+is as long? `📄 babel.config.js` `📄 src/components/Menu.vue` `📄 src/popup/main.js`
 
 <br/>
 
-`preset`[<sup id="ChCv9">↓</sup>](#f-ChCv9) `📄 vue.config.js` `📄 public/browser-extension.html`
+`preset`[<sup id="ChCv9">↓</sup>](#f-ChCv9) `📄 vue.config.js` `📄 public/browser-extension.html` `📄 public/_locales/en/messages.json`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 babel.config.js
 ```javascript
@@ -48,6 +49,28 @@ is as long? `📄 babel.config.js`
 🟩 16       </body>
 🟩 17     </html>
 🟩 18     
+```
+
+<br/>
+
+f
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 .gitignore
+```gitignore
+⬜ 13     
+⬜ 14     # Editor directories and files
+⬜ 15     .idea
+🟩 16     .vscode
+🟩 17     *.suo
+🟩 18     *.ntvs*
+🟩 19     *.njsproj
+🟩 20     *.sln
+⬜ 21     *.sw?
+⬜ 22     
+⬜ 23     # Vue Browser Extension Output
 ```
 
 <br/>
