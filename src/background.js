@@ -1,5 +1,5 @@
 // Copyright (c) 2012 The Chromium Authors. All rights reserved.
-// Use of this source code is governed by a BSD-style license that can be
+// Use of this source code is governed by a BSD-style license that can be1
 // found in the LICENSE file.
 import qs from 'qs'
 
@@ -7,7 +7,6 @@ const ROOT_SR_URL = 'localhost:8080';
 // The onClicked callback function.
 function onClickHandler(info) {
   if (info.menuItemId == 'add_card_all') {
-    // add comment to trigger autosync
     let query = {
       type: 'new',
       surl: info.pageUrl
