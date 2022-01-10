@@ -11,6 +11,14 @@ file_blobs:
 
 <br/>
 
+| Tables   |      Are      |  Cool |
+|----------|:-------------:|------:|
+| col 1 is |  left-aligned | $1600 |
+| col 2 is |    centered   |   $12 |
+| col 3 is | right-aligned |    $1 |
+
+<br/>
+
 `📄 README.md` `module.exports`[<sup id="ZFRTzX">↓</sup>](#f-ZFRTzX) `vue/cli-plugin-babel/preset`[<sup id="ZI81lY">↓</sup>](#f-ZI81lY)
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 babel.config.js
