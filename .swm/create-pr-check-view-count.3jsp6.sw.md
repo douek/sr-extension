@@ -5,7 +5,7 @@ file_version: 1.0.2
 app_version: 0.7.2-0
 ---
 
-test :)
+test :) how many views?
 
 <br/>
 
