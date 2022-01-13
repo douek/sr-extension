@@ -6,7 +6,7 @@ app_version: 0.7.2-0
 file_blobs:
   src/components/Menu.vue: 230f0e85d47bfe581db28001e9ea01a22bd813da
   src/popup/App.vue: e61e82af66d7db5e4b19d772cf3067ee7f6f321c
-  src/background.js: 17ed6c4f1dae7810941a9d10a7481a37e154adff
+  src/background.js: 814830319dd2225df4cd4a000be27990cc7506e6
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
@@ -51,7 +51,7 @@ file_blobs:
 ### 📄 src/background.js
 ```javascript
 🟩 1      // Copyright (c) 2012 The Chromium Authors. All rights reserved.
-🟩 2      // Use of this source code is governed by a BSD-style license that can be1
+🟩 2      // Use of this source code is governed by a BSD-style license that can be
 🟩 3      // found in the LICENSE file.
 🟩 4      import qs from 'qs'
 ⬜ 5      
