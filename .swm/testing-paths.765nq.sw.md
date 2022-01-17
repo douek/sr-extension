@@ -22,7 +22,7 @@ cool `📄 src/delete-me.js` and `📄 src/test-me.js`
 
 <br/>
 
-haha
+haha  `📄 src/test-me.js`
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/test-me.js
 ```javascript
