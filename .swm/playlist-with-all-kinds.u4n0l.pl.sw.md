@@ -2,11 +2,11 @@
 id: u4n0l
 name: Playlist with all kinds
 file_version: 1.0.2
-app_version: 0.7.1-2
+app_version: 0.7.2-0
 ---
 
 <!-- Intro - Do not remove this comment -->
-test
+1test
 
 <br/>
 
@@ -14,9 +14,9 @@ test
 1. [the readme](/README.md)
 2. [test commit to branch](test-commit-to-branch.10obx.sw.md)
 3. [Test SWMD Autosync hi](test-swmd-autosync-hi.Jy_Wg.sw.md)
-5. [exercise in plan](exercise-in-plan.tyOZM.sw.md)
-7. [New Doc push to branch test](https://swimm-web-app.web.app/repos/U0sVB7lC9at5XPOW1TBW/docs/5gprK)
-8. [Why join swimm?](https://www.youtube.com/watch?v=bUyPS4JDm4I)
+4. [exercise in plan](exercise-in-plan.tyOZM.sw.md)
+5. [New Doc push to branch test](https://swimm-web-app.web.app/repos/U0sVB7lC9at5XPOW1TBW/docs/5gprK)
+6. [Why join swimm?](https://www.youtube.com/watch?v=bUyPS4JDm4I)
 
 
 <br/>
