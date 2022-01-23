@@ -11,8 +11,8 @@ test1
 <br/>
 
 <!-- Steps - Do not remove this comment -->
-1. [the readme](/README.md)
-2. [test commit to branch](test-commit-to-branch.10obx.sw.md)
+1. [test commit to branch](test-commit-to-branch.10obx.sw.md)
+2. [the readme](/README.md)
 3. [Test SWMD Autosync hi](test-swmd-autosync-hi.Jy_Wg.sw.md)
 4. [exercise in plan](exercise-in-plan.tyOZM.sw.md)
 5. [New Doc push to branch test](http://localhost:5001/repos/U0sVB7lC9at5XPOW1TBW/docs/5gprK)
