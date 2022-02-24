@@ -1,11 +1,15 @@
 ---
 id: mu2n5
-name: Simple file
+name: Simple file name
 file_version: 1.0.2
 app_version: 0.7.5-0
 ---
 
 this is one line
+
+<br/>
+
+change it to something different
 
 <br/>
 
