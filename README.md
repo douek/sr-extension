@@ -1,4 +1,4 @@
-readme
+
 # sr-extension
 
 ## Project setup
@@ -10,7 +10,7 @@ yarn install
 ```
 yarn serve
 ```
-### Compiles and minifies for production
+### Compiles and minifies for production1
 ```
 yarn build
 ```
