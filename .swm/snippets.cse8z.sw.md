@@ -4,21 +4,22 @@ name: snippets
 file_version: 1.0.2
 app_version: 0.7.5-0
 file_blobs:
-  README.md: 4824db7acac4d4ee92cdbdbf835a28f1ff71e4af
+  README.md: e5d3be68c881512dc87d4de180fd583dbeac7098
 ---
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 README.md
 ```markdown
-🟩 1      # sr-extension
-🟩 2      
-🟩 3      ## Project setup
-🟩 4      ```
-🟩 5      yarn install
-🟩 6      ```
-⬜ 7      
-⬜ 8      ### Compiles and hot-reloads for development
-⬜ 9      ```
+🟩 1      
+🟩 2      # sr-extension
+🟩 3      
+🟩 4      ## Project setup
+🟩 5      ```
+🟩 6      yarn install
+🟩 7      ```
+⬜ 8      
+⬜ 9      ### Compiles and hot-reloads for development
+⬜ 10     ```
 ```
 
 <br/>
@@ -26,31 +27,32 @@ file_blobs:
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 README.md
 ```markdown
-⬜ 9      ```
-⬜ 10     yarn serve
-⬜ 11     ```
-🟩 12     
-🟩 13     ### Compiles and minifies for production
-🟩 14     ```
-🟩 15     yarn build
-🟩 16     ```
-🟩 17     
-⬜ 18     ### Lints and fixes files
-⬜ 19     ```
-⬜ 20     yarn lint
-```
-
-<br/>
-
-<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
-### 📄 README.md
-```markdown
-⬜ 20     yarn lint
+⬜ 10     ```
+⬜ 11     yarn serve
+⬜ 12     ```
+🟩 13     
+🟩 14     ### Compiles and minifies for production1
+🟩 15     ```
+🟩 16     yarn build
+🟩 17     ```
+🟩 18     
+⬜ 19     
+⬜ 20     ### Lints and fixes files
 ⬜ 21     ```
-⬜ 22     
-🟩 23     ### Customize configuration
-🟩 24     See [Configuration Reference](https://cli.vuejs.org/config/).
-🟩 25     
+```
+
+<br/>
+
+<!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
+### 📄 README.md
+```markdown
+⬜ 22     yarn lint
+⬜ 23     ```
+⬜ 24     
+🟩 25     ### Customize configuration
+🟩 26     See [Configuration Reference](https://cli.vuejs.org/config/).
+🟩 27     
+🟩 28     
 ```
 
 <br/>
