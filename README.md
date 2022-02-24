@@ -1,4 +1,4 @@
-
+readme
 # sr-extension
 
 ## Project setup
@@ -10,8 +10,7 @@ yarn install
 ```
 yarn serve
 ```
-
-### Compiles and minifies for production1
+### Compiles and minifies for production
 ```
 yarn build
 ```
@@ -24,4 +23,3 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
-
