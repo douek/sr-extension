@@ -2,7 +2,7 @@
 id: ct648
 name: test tokens counts
 file_version: 1.0.2
-app_version: 0.7.1-1
+app_version: 0.8.6-1
 file_blobs:
   babel.config.js: e9558405fdcc02f12d757acb308e02937a7444f1
 ---
@@ -12,7 +12,7 @@ file_blobs:
 <br/>
 
 | Tables   |      Are      |  Cool |
-|----------|:-------------:|------:|
+|----------|---------------|-------|
 | col 1 is |  left-aligned | $1600 |
 | col 2 is |    centered   |   $12 |
 | col 3 is | right-aligned |    $1 |
@@ -34,6 +34,10 @@ file_blobs:
 <br/>
 
 `📄 README.md` `preset`[<sup id="ChCv9">↓</sup>](#f-ChCv9)
+
+<br/>
+
+123
 
 <br/>
 
