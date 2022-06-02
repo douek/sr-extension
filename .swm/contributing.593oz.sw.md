@@ -2,10 +2,10 @@
 id: 593oz
 name: CONTRIBUTING
 file_version: 1.0.2
-app_version: 0.7.3-0
+app_version: 0.8.8-0
 ---
 
-# Contributing
+# Contributingtete
 
 <br/>
 
