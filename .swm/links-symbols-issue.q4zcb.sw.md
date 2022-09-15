@@ -18,8 +18,7 @@ more text
 
 <br/>
 
-
-
+more `sr`[<sup id="ZFQ7m2">↓</sup>](#f-ZFQ7m2)
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 README.md
 ```markdown
@@ -49,6 +48,11 @@ with symbol `Compiles`[<sup id="Z1hXrHr">↓</sup>](#f-Z1hXrHr)
 <span id="f-Z1hXrHr">Compiles</span>[^](#Z1hXrHr) - "README.md" L9
 ```markdown
 ### Compiles and hot-reloads for development
+```
+
+<span id="f-ZFQ7m2">sr</span>[^](#ZFQ7m2) - "README.md" L2
+```markdown
+# sr-extension
 ```
 
 <br/>
