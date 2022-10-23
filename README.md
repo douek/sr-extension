@@ -23,3 +23,6 @@ yarn lint
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
+
+### Image test
+<img src="images/test.jpg"  width="500" height="500">
