@@ -11,6 +11,8 @@ file_blobs:
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/components/Menu.vue
+<!-- collapsed -->
+
 ```vue
 ⬜ 10     </template>
 ⬜ 11     
