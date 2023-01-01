@@ -49,6 +49,8 @@ file_blobs:
 
 <!-- NOTE-swimm-snippet: the lines below link your snippet to Swimm -->
 ### 📄 src/background.js
+<!-- collapsed -->
+
 ```javascript
 🟩 1      // Copyright (c) 2012 The Chromium Authors. All rights reserved.
 🟩 2      // Use of this source code is governed by a BSD-style license that can be1
