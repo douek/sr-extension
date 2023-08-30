@@ -14,7 +14,21 @@ app_version: 1.16.0
 1. [test commit to branch](test-commit-to-branch.10obx.sw.md)
 2. [Create PR - staging](create-pr-staging.42oy5.sw.md)
 3. [Doc in the pl](doc-in-the-pl.5wg4jyks.sw.md)
-4. [testing paths](testing-paths.765nq.sw.md)
+4. [testing paths2222](testing-paths2222.765nq.sw.md)
+5. [A doc with links](a-doc-with-links.xsOXHEwXDtoIRVbpt8oK.sw.md)
+6. [Playlists new](playlists-new.v_bmI.sw.md)
+7. [exercise in plan](exercise-in-plan.tyOZM.sw.md)
+8. [Another Playlist](another-playlist.t5u6R.sw.md)
+9. [grtgrtgrtg9696](grtgrtgrtg9696.s0r5j.sw.md)
+10. [test snippet count 11](test-snippet-count-11.pyhwt.sw.md)
+11. [@testsets/something bla bla](testsetssomething-bla-bla.iqw7a.sw.md)
+12. [test contribution](test-contribution.hbr2eldi.sw.md)
+13. [test short UD](test-short-ud.gakxi.sw.md)
+14. [Test creation 🩺 Incident Report](test-creation-incident-report.fp7p7.sw.md)
+15. [Doc with snippets10](doc-with-snippets10.aygat.sw.md)
+16. [Doc with list of links](doc-with-list-of-links.WZzwR.sw.md)
+17. [Testing push to master](testing-push-to-master.YpYvHhE6EB8e1d6beryL.sw.md)
+18. [Test - Einore](test-einore.VjX09.sw.md)
 
 
 <br/>
