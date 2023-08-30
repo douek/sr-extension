@@ -13,8 +13,7 @@ app_version: 1.16.0
 <!-- Steps - Do not remove this comment -->
 1. [test commit to branch](test-commit-to-branch.10obx.sw.md)
 2. [Create PR - staging](create-pr-staging.42oy5.sw.md)
-3. [Doc in the pl](doc-in-the-pl.5wg4jyks.sw.md)
-4. [testing paths](testing-paths.765nq.sw.md)
+3. [testing paths](testing-paths.765nq.sw.md)
 
 
 <br/>
