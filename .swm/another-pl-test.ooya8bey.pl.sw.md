@@ -12,11 +12,11 @@ test me123
 
 <!-- Steps - Do not remove this comment -->
 1. [this one blank](this-one-blank.8wpb8106.sw.md)
-2. [blank no commit](blank-no-commit.5lzxm30c.sw.md)
-3. [test commit to branch1](test-commit-to-branch1.10obx.sw.md)
-4. [testing paths333](testing-paths333.765nq.sw.md)
-5. [CONTRIBUTING2](contributing2.593oz.sw.md)
-6. [do commit](do-commit.35vv88l1.sw.md)
+2. [test commit to branch](test-commit-to-branch.10obx.sw.md)
+3. [testing paths2222](testing-paths2222.765nq.sw.md)
+4. [CONTRIBUTING2](contributing2.593oz.sw.md)
+5. [do commit](do-commit.35vv88l1.sw.md)
+6. [Test new added steps](test-new-added-steps.3s5nyk3q.sw.md)
 
 
 <br/>
