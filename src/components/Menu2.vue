@@ -10,15 +10,4 @@
 </template>
 
 <script>
-export default {
-    name: 'Menu',
-    methods:{
-      startSession: () => {
-      window.open('localhost:8080/session','_blank');
-      },
-      manageCards: () => {
-      window.open('localhost:8080','_blank');
-      },
-    }
-}
 </script>
