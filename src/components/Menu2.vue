@@ -1,5 +1,5 @@
 <template>
-    <div class="ui primary flex float vertical pointing menu">
+    <div class="ui primary flex float vertical pointing menu link">
     <a class="item" @click="startSession">
     Start Session
   </a>
