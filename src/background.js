@@ -19,6 +19,8 @@ function onClickHandler(info) {
       surl: info.pageUrl,
       front: info.selectionText
     }
+    // class 100
+    console.log("class");
     let urlQueary = `${ROOT_SR_URL}/new/${qs.stringify(query)}`;
     window.open(urlQueary,'_blank');
   } else if (info.menuItemId == 'add_card_selection_back') {

@@ -1,0 +1,53 @@
+{
+    "rules": {
+        "28a27c0e-431a-4629-ae4a-70a3eade05d2": {
+            "name": "this is a test",
+            "rule": {
+                "type": "regex",
+                "regex": "class",
+                "includeFiles": [
+                    "*.vue"
+                ]
+            },
+            "actions": {
+                "ide": {
+                    "message": "bla bla"
+                }
+            }
+        },
+        "1d5103ad-b7ff-4eeb-9456-b4a9c621f86c": {
+            "name": "just a number",
+            "rule": {
+                "type": "regex",
+                "regex": "100",
+                "includeFiles": [
+                    "*.json",
+                    "*.html"
+                ]
+            },
+            "actions": {
+                "ide": {
+                    "doc_id": "aygat",
+                    "message": "100 is just a number"
+                }
+            }
+        },
+        "453a4243-141d-40a0-85cc-b87cf40bc747": {
+            "name": "test",
+            "rule": {
+                "type": "regex",
+                "regex": "actions"
+            },
+            "actions": {
+                "ide": {
+                    "message": "§12"
+                }
+            }
+        }
+    },
+    "view_order": [
+        "28a27c0e-431a-4629-ae4a-70a3eade05d2",
+        "1d5103ad-b7ff-4eeb-9456-b4a9c621f86c",
+        "453a4243-141d-40a0-85cc-b87cf40bc747"
+    ]
+}
