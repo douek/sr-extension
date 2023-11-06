@@ -3,30 +3,29 @@ title: This is my snippet test
 ---
 # some text...
 
-<SwmSnippet path="/src/components/Menu.vue" line="1">
+<SwmSnippet path="src/components/Menu2.vue" line="1">
 
 ---
 
 &nbsp;
 
-```vue
+```
 <template>
     <div class="ui primary flex float vertical pointing menu">
     <a class="item" @click="startSession">
-    Start Session
 ```
 
 ---
 
 </SwmSnippet>
 
-<SwmSnippet path="/src/components/Menu.vue" line="20">
+<SwmSnippet path="src/components/Menu2.vue" line="20">
 
 ---
 
 &nbsp;
 
-```vue
+```
       window.open('localhost:8080','_blank');
       },
     }
@@ -40,7 +39,7 @@ title: This is my snippet test
 
 Something between&nbsp;&nbsp;
 
-<SwmSnippet path="/src/background.js" line="24">
+<SwmSnippet path="/src/background.js" line="26">
 
 ---
 
@@ -138,7 +137,40 @@ collapsed!!
 
 </SwmSnippet>
 
-<SwmSnippet path="/src/test-me1.js" line="3">
+<SwmSnippet path="src/test-me2.js" line="3">
+
+---
+
+&nbsp;
+
+```
+console.log('more code');
+```
+
+---
+
+</SwmSnippet>
+
+<SwmSnippet path="/src/test-me1.js" line="1">
+
+---
+
+&nbsp;
+
+```javascript
+// comment
+console.log('code');
+console.log('more code');
+// another comment
+let something = 'test';
+
+```
+
+---
+
+</SwmSnippet>
+
+<SwmSnippet path="/src/test-me4.js" line="3">
 
 ---
 
@@ -152,4 +184,4 @@ console.log('more code');
 
 </SwmSnippet>
 
-<SwmMeta repo-id="Z2l0aHViJTNBJTNBc3ItZXh0ZW5zaW9uJTNBJTNBZG91ZWs=" repo-name="sr-extension"><sup>Powered by [Swimm](http://localhost:5000/)</sup></SwmMeta>
+<SwmMeta repo-id="Z2l0aHViJTNBJTNBc3ItZXh0ZW5zaW9uJTNBJTNBZG91ZWs=" repo-name="sr-extension"><sup>Powered by [Swimm](https://swimm-web-app--swmdv3-develop-staging-a696gm5o.web.app/)</sup></SwmMeta>
