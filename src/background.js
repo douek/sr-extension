@@ -2,7 +2,7 @@
 // Use of this source code is governed by a BSD-style license that can be
 // found in the LICENSE file.
 import qs from 'qs'
-
+// jo
 const ROOT_SR_URL = 'localhost:8080';
 // The onClicked callback function.
 function onClickHandler(info) {
