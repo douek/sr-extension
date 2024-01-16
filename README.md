@@ -1,7 +1,7 @@
 
 # sr-extension
 
-## Project setup
+## Project setup q
 ```
 yarn install
 ```
