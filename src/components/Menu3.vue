@@ -10,4 +10,5 @@
 </template>
 
 <script>
+// comment
 </script>
