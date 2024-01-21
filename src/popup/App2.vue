@@ -13,6 +13,7 @@ export default {
   name: 'App',
   components: { Menu }
 }
+// this is dirty and should be adede!!
 </script>
 
 <style>
