@@ -6,7 +6,8 @@
                 "type": "regex",
                 "regex": "class",
                 "includeFiles": [
-                    "*.vue"
+                    "*.vue",
+                    "/.swm/**"
                 ]
             },
             "actions": {
